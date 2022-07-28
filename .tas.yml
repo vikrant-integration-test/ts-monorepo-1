@@ -16,3 +16,4 @@ postMerge:
     # glob-patterns to discover tests to run in case of postMerge
     - "./apps/jest-babel/test/index.spec.ts"
     - "./apps/jest-tsjest/test/index.spec.ts"
+
